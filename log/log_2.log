@@ -1,0 +1,6 @@
+Use GPU: 2 for training
+=> no checkpoint found at './model/'
+Use GPU: 1 for training
+=> no checkpoint found at './model/'
+Use GPU: 0 for training
+=> no checkpoint found at './model/'
